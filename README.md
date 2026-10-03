@@ -20,6 +20,7 @@ Automatically ingests project documents from Google Drive
 into Pinecone Vector Database.
 
 ![Ingestion Workflow](screenshots/ingestion_workflow.png)
+<img width="1025" height="538" alt="ingestion_workflow" src="https://github.com/user-attachments/assets/930781c5-73a5-449c-9bca-7714e61bb5ef" />
 
 **Flow:**
 Google Drive (Search Files)
@@ -34,6 +35,7 @@ Handles user queries and retrieves answers from
 the indexed knowledge base.
 
 ![Agent Workflow](screenshots/agent_workflow.png)
+<img width="972" height="514" alt="agent_workflow" src="https://github.com/user-attachments/assets/05c48919-27db-45be-a7a0-8d7ad0b73e37" />
 
 **Flow:**
 Chat Message Received
@@ -66,7 +68,11 @@ Real query answered by the assistant from uploaded
 project documents:
 
 ![Chat Output](screenshots/chat_output 1.png)
+<img width="1023" height="634" alt="chat_output 1" src="https://github.com/user-attachments/assets/e2c379b5-a63c-4d97-b578-5acf46dac433" />
+
 ![Chat Output](screenshots/chat_output 2.png)
+<img width="1189" height="609" alt="chat_output 2" src="https://github.com/user-attachments/assets/f29ee918-647a-45de-8b4f-9f46c4c885cf" />
+
 **Query asked:** *"What is the auto renewal process?"*
 
 **Answer retrieved:**
@@ -130,4 +136,5 @@ RAG-Project-Knowledge-Assistant/
 │ ├── agent_workflow.png
 │ └-- chat_output 1.png
   L__ chat_output 2.png
+
 
