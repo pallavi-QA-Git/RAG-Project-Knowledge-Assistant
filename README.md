@@ -65,8 +65,8 @@ Chat Message Received
 Real query answered by the assistant from uploaded 
 project documents:
 
-![Chat Output](screenshots/chat_output.png)
-
+![Chat Output](screenshots/chat_output 1.png)
+![Chat Output](screenshots/chat_output 2.png)
 **Query asked:** *"What is the auto renewal process?"*
 
 **Answer retrieved:**
@@ -114,11 +114,10 @@ the centralised knowledge base.
 ---
 
 ## 🚀 Built As Part Of
-**Interview Kickstart — Generative AI Training Program**
+**IK — Generative AI Training Program**
 
 Combining 12+ years of P&C Insurance QA expertise 
-with Generative AI to build practical, domain-specific 
-AI solutions.
+with Generative AI to build practical,  AI solutions.
 
 ---
 
@@ -129,4 +128,6 @@ RAG-Project-Knowledge-Assistant/
 ├── screenshots/
 │ ├── ingestion_workflow.png
 │ ├── agent_workflow.png
-│ └── chat_output.png
+│ └-- chat_output 1.png
+  L__ chat_output 2.png
+
